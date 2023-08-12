@@ -31022,7 +31022,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 --------------------------------------------------------------------------------
 platform
-process
 
 Copyright 2017, the Dart project authors. All rights reserved.
 Redistribution and use in source and binary forms, with or without
@@ -33888,7 +33887,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 win32
 
-Copyright 2019, the Dart project authors. All rights reserved.
+Copyright 2019, Dart | Windows. All rights reserved.
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
 met:
