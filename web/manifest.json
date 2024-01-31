@@ -1,6 +1,6 @@
 {
-    "name": "i-care.by web app",
-    "short_name": "i-care.by web app",
+    "name": "i-care.by web app (галінка main)",
+    "short_name": "i-care.by web app (галінка main)",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
